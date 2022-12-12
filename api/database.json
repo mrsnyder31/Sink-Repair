@@ -1,0 +1,68 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Maude"
+    },
+    {
+      "id": 2,
+      "name": "Merle"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": "6",
+      "plumberId": "2",
+      "date_created": 1670612880788,
+      "id": 1
+    },
+    {
+      "requestId": "7",
+      "plumberId": "2",
+      "date_created": 1670612883967,
+      "id": 2
+    },
+    {
+      "requestId": "9",
+      "plumberId": "2",
+      "date_created": 1670612886432,
+      "id": 3
+    },
+    {
+      "requestId": "10",
+      "plumberId": "1",
+      "date_created": 1670612887626,
+      "id": 4
+    }
+  ],
+  "requests": [
+    {
+      "description": "Where is My DB POST",
+      "address": "555 House",
+      "budget": "5555",
+      "neededBy": "2022-12-16",
+      "id": 6
+    },
+    {
+      "description": "Auto time?",
+      "address": "123 automate me",
+      "budget": "2341324",
+      "neededBy": "2022-12-31",
+      "id": 7
+    },
+    {
+      "description": "Where is My DB POST",
+      "address": "Where is My DB POST",
+      "budget": "23452345",
+      "neededBy": "2022-12-15",
+      "id": 9
+    },
+    {
+      "description": "fire",
+      "address": "ifre",
+      "budget": "2345",
+      "neededBy": "2022-12-15",
+      "id": 10
+    }
+  ]
+}
